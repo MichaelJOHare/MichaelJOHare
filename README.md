@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I'm new to coding. I'm currently working through the Tech Elevator prework required for the bootcamp beginning on May 15th. I'm learning all about foundational aspects to coding including process diagrams, conditional logic, loops, and a whole lot of JavaScript!
+
+I'm looking to collaborate on projects in bootcamp as well as helping colleagues with things they may be struggling with if I'm able to!
