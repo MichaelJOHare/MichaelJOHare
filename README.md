@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm new to coding. I'm currently working through the Tech Elevator prework required for the bootcamp beginning on May 15th. I'm learning all about foundational aspects to coding including process diagrams, conditional logic, loops, and a whole lot of JavaScript!
+Hi, I'm new to coding. I'm currently working through the Tech Elevator Java bootcamp and will be graduating in mid August. So far I've learned how to make command line interface programs in Java, use postgreSQL to modify databases, and how to connect those two together using the Spring Framework for Java.
 
-I'm looking to collaborate on projects in bootcamp as well as helping colleagues with things they may be struggling with if I'm able to!
+I'm looking to collaborate on projects with my bootcamp colleagues and help eachother out with concepts we may struggle with!
