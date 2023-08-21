@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently working through the Tech Elevator Java bootcamp and will be graduating in mid August. So far I've learned how to make command line interface programs in Java, use postgreSQL to modify databases, and how to connect those two together using the Spring Framework for Java.  We've also recently learned how to utilize JavaScript frameworks such as Vue.js to make responsive webpages. 
+My name is Michael O'Hare, I recently graduated from the Tech Elevator Java coding bootcamp where I spent hundreds of hours learning how to write software applications.  We learned how to write the back end of our projects in Java and connect it to a PostgreSQL database with the Spring framework.  The front end of our projects were written using HTML, CSS, and JavaScript (as well as JS frameworks like Vue.js).  I have collected the pair programming projects we worked on here on my github as well as our final capstone project where we made a movie recommendation website that allowed users to register, sign in, create profiles, and choose their favorite genre for a profile so they could be given a list of movies based on the genre they favorited.
 
-With only a few more weeks left in until graduation I'm beginning my search for a job as a junior developer. If you see anything on this github that interests you feel free to reach out!
+Having just graduated, I'm beginning my search for a job as a junior developer. If you see anything on this github that interests you feel free to reach out!
