@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 My name is Michael O'Hare, in August 2023 I graduated from the Tech Elevator full stack bootcamp where I spent hundreds of hours learning how to write software applications.  We learned how to write the back end of our projects in Java and connect it to a PostgreSQL database with the Spring framework.  The front end of our projects were written using HTML, CSS, and JavaScript (as well as JS frameworks like Vue.js).  I have collected the pair programming projects we worked on here on my github as well as our final capstone project where we made a movie recommendation website that allowed users to register, sign in, create profiles, and choose their favorite genre for a profile so they could be given a list of movies based on the genre they favorited.  In the time since I've graduated I haven't stopped learning, diving into things like Typescript, React, Next.js, TailwindCSS, and more.
-
-I am searching for a job as a junior developer. If you see anything on this github that interests you feel free to reach out!
